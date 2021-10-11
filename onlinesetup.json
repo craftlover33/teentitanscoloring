@@ -1,7 +1,7 @@
 {
-   "isRedirect": false,
+   "isRedirect": true,
    "message": "Hai there is new update for this app please download!",
-   "redirectUrl": "-",
+   "redirectUrl": "https://play.google.com/store/apps/details?id=com.rgbcolor.teencoloringtitans",
    "moreApps": [
       {
          "title": "Godzilla Coloring Monsters",
